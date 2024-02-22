@@ -1,0 +1,25 @@
+* {
+    margin: 20px;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    padding: 10px;
+    border: 15px;
+    border-style: dotted;
+    text-align: center;
+    text-decoration: underline;
+}
+
+a {
+    color: brown ;
+    text-decoration: none;
+}
+
+p {
+    color: darkblue;
+    text-transform: capitalize;
+}
